@@ -1,0 +1,262 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="1" total="7" passed="6">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="55893" started-at="2021-05-30T10:28:58Z" finished-at="2021-05-30T10:29:54Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="55893" started-at="2021-05-30T10:28:58Z" finished-at="2021-05-30T10:29:54Z">
+      <class name="com.test.Simple">
+        <test-method status="PASS" signature="TestMethod()[pri:0, instance:com.test.Simple@6093dd95]" name="TestMethod" is-config="true" duration-ms="8325" started-at="2021-05-30T15:58:59Z" finished-at="2021-05-30T15:59:08Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestMethod -->
+        <test-method status="PASS" signature="operate(double, double, java.lang.String, double)[pri:0, instance:com.test.Simple@6093dd95]" name="operate" duration-ms="899" started-at="2021-05-30T15:59:08Z" data-provider="DataContainer" finished-at="2021-05-30T15:59:09Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[23432.0]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[3445455.0]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Addition]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[3468887.0]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- operate -->
+        <test-method status="PASS" signature="TestMethod()[pri:0, instance:com.test.Simple@6093dd95]" name="TestMethod" is-config="true" duration-ms="5175" started-at="2021-05-30T15:59:09Z" finished-at="2021-05-30T15:59:14Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestMethod -->
+        <test-method status="PASS" signature="operate(double, double, java.lang.String, double)[pri:0, instance:com.test.Simple@6093dd95]" name="operate" duration-ms="582" started-at="2021-05-30T15:59:14Z" data-provider="DataContainer" finished-at="2021-05-30T15:59:14Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[100.0]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[200.0]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Addition]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[300.0]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- operate -->
+        <test-method status="PASS" signature="TestMethod()[pri:0, instance:com.test.Simple@6093dd95]" name="TestMethod" is-config="true" duration-ms="6066" started-at="2021-05-30T15:59:14Z" finished-at="2021-05-30T15:59:20Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestMethod -->
+        <test-method status="PASS" signature="operate(double, double, java.lang.String, double)[pri:0, instance:com.test.Simple@6093dd95]" name="operate" duration-ms="736" started-at="2021-05-30T15:59:20Z" data-provider="DataContainer" finished-at="2021-05-30T15:59:21Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[2678.0]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[182.0]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Addition]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[2860.0]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- operate -->
+        <test-method status="PASS" signature="TestMethod()[pri:0, instance:com.test.Simple@6093dd95]" name="TestMethod" is-config="true" duration-ms="5628" started-at="2021-05-30T15:59:21Z" finished-at="2021-05-30T15:59:27Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestMethod -->
+        <test-method status="PASS" signature="operate(double, double, java.lang.String, double)[pri:0, instance:com.test.Simple@6093dd95]" name="operate" duration-ms="370" started-at="2021-05-30T15:59:27Z" data-provider="DataContainer" finished-at="2021-05-30T15:59:27Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[12.0]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[8.0]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Subtraction]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[4.0]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- operate -->
+        <test-method status="PASS" signature="TestMethod()[pri:0, instance:com.test.Simple@6093dd95]" name="TestMethod" is-config="true" duration-ms="7824" started-at="2021-05-30T15:59:27Z" finished-at="2021-05-30T15:59:35Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestMethod -->
+        <test-method status="PASS" signature="operate(double, double, java.lang.String, double)[pri:0, instance:com.test.Simple@6093dd95]" name="operate" duration-ms="397" started-at="2021-05-30T15:59:35Z" data-provider="DataContainer" finished-at="2021-05-30T15:59:35Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[100.0]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[5.0]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Division]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[20.0]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- operate -->
+        <test-method status="PASS" signature="TestMethod()[pri:0, instance:com.test.Simple@6093dd95]" name="TestMethod" is-config="true" duration-ms="10057" started-at="2021-05-30T15:59:35Z" finished-at="2021-05-30T15:59:45Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestMethod -->
+        <test-method status="PASS" signature="operate(double, double, java.lang.String, double)[pri:0, instance:com.test.Simple@6093dd95]" name="operate" duration-ms="381" started-at="2021-05-30T15:59:45Z" data-provider="DataContainer" finished-at="2021-05-30T15:59:46Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[10.0]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[5.0]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Multiplication]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[50.0]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- operate -->
+        <test-method status="PASS" signature="TestMethod()[pri:0, instance:com.test.Simple@6093dd95]" name="TestMethod" is-config="true" duration-ms="8086" started-at="2021-05-30T15:59:46Z" finished-at="2021-05-30T15:59:54Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestMethod -->
+        <test-method status="FAIL" signature="operate(double, double, java.lang.String, double)[pri:0, instance:com.test.Simple@6093dd95]" name="operate" duration-ms="373" started-at="2021-05-30T15:59:54Z" data-provider="DataContainer" finished-at="2021-05-30T15:59:54Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[25.0]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[5.0]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Division]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[6.0]]>
+              </value>
+            </param>
+          </params>
+          <exception class="junit.framework.AssertionFailedError">
+            <message>
+              <![CDATA[expected:<6.0> but was:<5.0>]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[junit.framework.AssertionFailedError: expected:<6.0> but was:<5.0>
+	at junit.framework.Assert.fail(Assert.java:57)
+	at junit.framework.Assert.failNotEquals(Assert.java:329)
+	at junit.framework.Assert.assertEquals(Assert.java:78)
+	at junit.framework.Assert.assertEquals(Assert.java:86)
+	at com.test.Simple.operate(Simple.java:205)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:100)
+	at org.testng.internal.Invoker.invokeMethod(Invoker.java:646)
+	at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:811)
+	at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:1137)
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:129)
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:112)
+	at org.testng.TestRunner.privateRun(TestRunner.java:753)
+	at org.testng.TestRunner.run(TestRunner.java:607)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:368)
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:363)
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:321)
+	at org.testng.SuiteRunner.run(SuiteRunner.java:270)
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:86)
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1284)
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1209)
+	at org.testng.TestNG.runSuites(TestNG.java:1124)
+	at org.testng.TestNG.run(TestNG.java:1096)
+	at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:132)
+	at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:236)
+	at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:81)
+]]>
+            </full-stacktrace>
+          </exception> <!-- junit.framework.AssertionFailedError -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- operate -->
+      </class> <!-- com.test.Simple -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
